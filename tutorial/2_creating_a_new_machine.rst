@@ -98,7 +98,7 @@ contents of that file.
 5. Run your game!
 -----------------
 
-Believe it your not, it's time to run your game! Simply open a console window and change to your machine
+Believe it our not, it's time to run your game! Simply open a console window and change to your machine
 folder, and run ``mpf -b``, like this:
 
 .. code-block:: doscon
